@@ -1,1 +1,3 @@
-hello world edit
+<?php
+echo "Lam viec voi home";
+?>
